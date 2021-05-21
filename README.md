@@ -13,7 +13,8 @@ I will be demonstrating my solutions and thought process for Project 1 using var
 
 ## Dataset
 
-The coffee shop dataset that was given to work with consists of three versions of pairings. One of which is beverages to branches and the other being beverages to count.
+The coffee shop dataset that was given to work with consists of three versions of pairings. 
+One of which is beverages to branches and the other being beverages to count.
 
 - Bev_BranchA
 - Bev_BranchB
@@ -24,7 +25,7 @@ The coffee shop dataset that was given to work with consists of three versions o
 
 ## Repository Contents
 
-- Project 1 - Sample Hive Project (1).pdf : Presentation slides demonstrating code and process for creating solutions for each scenario.
+- Project 1 - Sample Hive Project (1).pdf : Presentation slides demonstrating process, code, and screenshots of outputs.
 - README.md - Description of the project.
 
 ## Findings
