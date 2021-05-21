@@ -27,6 +27,7 @@ One of which is beverages to branches and the other being beverages to count.
 
 - Project 1 - Sample Hive Project (1).pdf : Presentation slides demonstrating process, code, and screenshots of outputs.
 - README.md - Description of the project.
+- Dataset - Folder containing the data used.
 
 ## Findings
 
