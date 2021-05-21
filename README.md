@@ -25,6 +25,7 @@ The coffee shop dataset that was given to work with consists of three versions o
 ## Repository Contents
 
 - Project 1 - Sample Hive Project (1).pdf : Presentation slides demonstrating code and process for creating solutions for each scenario.
+- README.md - Description of the project.
 
 ## Findings
 
