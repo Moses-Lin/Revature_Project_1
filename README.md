@@ -1,6 +1,8 @@
 # Revature_Project_1
 
-## Project Goal
+## Project Description
+
+"This project is mainly for learning and practicing simple HIVE commands in real time scenarios. Here we have taken some sample coffee shop data and processed some essential queries to demonstrate HDFS & HIVE commands."
 
 This project is mainly for learning and practicing simple HIVE commands in real time scenarios. 
 I will be demonstrating my solutions and thought process for Project 1 using various Hive queries.
@@ -23,7 +25,7 @@ One of which is beverages to branches and the other being beverages to count.
 - Bev_ConscountB
 - Bev_ConscountC
 
-## Repository Contents
+## Contributors
 
 - Project 1 - Sample Hive Project (1).pdf : Presentation slides demonstrating process, code, and screenshots of outputs.
 - README.md - Description of the project.
